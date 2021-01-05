@@ -1,1 +1,1 @@
-# capstone-2
+I have designed a prediction model to predict car price. 
